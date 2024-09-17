@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menna Mohamed Dessoky Ahmed - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #f4f4f4;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .contact-info strong {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Menna Mohamed Dessoky Ahmed</h1>
+        <div class="contact-info">
+            <strong>Phone:</strong> 01060035621
+            <strong>Email:</strong> menna.mohamedd050@gmail.com
+            <strong>Location:</strong> Cairo, Egypt
+        </div>
+
+        <h2>Profile</h2>
+        <p>Skilled Pharmacist with expertise in pharmacy management and patient education. Proven trainee with exceptional customer service skills, professional demeanor, and a commitment to efficiency through technology. Seeking an entry-level role with a passion for achieving company goals, taking on additional responsibilities, and delivering positive results.</p>
+
+        <h2>Education</h2>
+        <ul>
+            <li><strong>Bachelor of Pharmacy (Pharm.D.)</strong> - September 2019 - June 2024<br>
+                October 6th University (O6U), 6th of October City, Egypt</li>
+        </ul>
+
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>Intern Pharmacist</strong> - June 2022 to January 2023<br>
+                Ayarry Pharmacies, Cairo, Egypt
+                <ul>
+                    <li>Counseled patients on new medications and OTC products.</li>
+                    <li>Provided friendly customer service at drop-off and pick-up counters.</li>
+                    <li>Used pharmacy software to enter prescription and insurance information.</li>
+                    <li>Evaluated patient histories to assess medication compliance and spot issues.</li>
+                    <li>Educated patients on proper medication use.</li>
+                    <li>Effectively prioritized tasks and organized workflow to increase efficiency.</li>
+                    <li>Provided education and support to reduce obesity, diabetes, and heart disease.</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>Expert in: Microsoft Office, Management skills, Communication skills, Strategic Thinking, Creative Problem Solving.</li>
+            <li>Skilled team player with strong organizational abilities and the capacity to manage multiple projects with precision.</li>
+            <li>Diligent, intelligent, and adaptable with a strong focus on attention to detail.</li>
+        </ul>
+
+        <h2>Continuous Education</h2>
+        <ul>
+            <li>Pharmacy student training virtual program from 27/8/2021 to 9/10/2021</li>
+            <li>Off-label use of drugs workshop in Faculty of Pharmacy, Al-Azhar University, from 13/12/2021 to 20/12/2021</li>
+            <li>Natural product drug development, complete preclinical trial training at City of Scientific Research and Technological Applications (SRTA-city), from 6 to 10 February 2022</li>
+            <li>Eva career course completion 2022, 2023</li>
+            <li>PharmaAcademy diploma (August 2024)</li>
+        </ul>
+    </div>
+</body>
+</html>
